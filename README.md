@@ -18,13 +18,4 @@ Here are some ideas to get you started:
 Im a human who lives on earth that uses an electronic device known as a "Computer"
 
 # lol
-- I do a bit of haxeflixel MODDING, not programming. I.E. FNF
-- Github is cool
-- I'm (insert age here)
-- my discord is ItsWilhelmBlakely#1604
--
--
--
--
--
-stop typing
+-uh something
